@@ -1,0 +1,14 @@
+{
+    "name":"Xiix Theme",
+    "title":"Xiix Theme",
+    "author":"xiix",
+    "version":"v0.0.1",
+    "description":"",
+    "logseq":{"themes":[{"name":"Xiix Theme Light","url":"./light.css","description":"Xiix theme features both dark and light mode ","mode":"light"},
+                        {"name":"Xiix Theme Dark","url":"./dark.css","description":"Xiix theme features both dark and light mode ","mode":"dark"}],
+    "id":"logseq-xiix-theme",
+    "icon":"./icon.gif"},
+    "repo":"xissshawww/logseq-xiix-theme",
+    "theme":true,
+    "effect":false
+}
